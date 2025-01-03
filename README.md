@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-drag-and-drop.git
+git clone https://github.com/geriadam/react-drag-and-drop.git
 cd react-drag-and-drop
 ```
 
